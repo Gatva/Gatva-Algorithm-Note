@@ -1,0 +1,7 @@
+﻿  源.cpp
+E:\book\递归\子串\源.cpp(76,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“_Ty”
+          with
+          [
+              _Ty=std::vector<int,std::allocator<int>>
+          ]
+  子串.vcxproj -> E:\book\递归\x64\Debug\子集.exe
